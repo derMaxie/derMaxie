@@ -2,9 +2,9 @@
 I'm Maxie, a Web Developer and Bitcoiner based in Austria.
 
 ## About me
-🏢 Full time employed
+🏢 Full time employed  
 👨‍💻 HTML, CSS, JS, PHP  
-🧠 Currently improving TypeScypt and React skills  
+🧠 Currently improving my TypeScypt and React skills  
 📫 Contact me on Nostr or Twitter  
 📍 Einundzwanzig Stammtisch Salzburg  
 
