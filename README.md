@@ -1,16 +1,22 @@
-### Hi there 👋
+## 👋 Hey and Welcome!
+I'm Maxie, a Web Developer and Bitcoiner based in Austria.
 
-<!--
-**derMaxie/derMaxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+🏢 Full time employed
+👨‍💻 HTML, CSS, JS, PHP  
+🧠 Currently improving TypeScypt and React skills  
+📫 Contact me on Nostr or Twitter  
+📍 Einundzwanzig Stammtisch Salzburg  
 
-Here are some ideas to get you started:
+## Work experience
+- 5 Years Web Development
+- 2 Years Design
+- 1 Years Salesforce Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Solar car manufacturer website and crm system
+- Two of europes biggest webshops
+- Salesforce consulting
+
+---
+*Updated at 774900*
